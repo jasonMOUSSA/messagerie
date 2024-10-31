@@ -1,2 +1,2 @@
 # messagerie
-petite essagerie avec PHP et MYSQL
+petite messagerie avec PHP et MYSQL
